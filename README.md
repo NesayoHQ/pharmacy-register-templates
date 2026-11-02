@@ -54,4 +54,4 @@ Rule 65(17): "No drug shall be sold or stocked by the licensee after the date of
 
 A batch-wise stock register template (opening, received, sold, closing quantity) is on the Nesayo site: https://nesayo.com/tools/pharmacy-stock-register-format?utm_source=github&utm_medium=readme&utm_campaign=register_templates_2026_10&utm_content=register-templates-readme
 
-Team Nesayo makes billing, stock and compliance software for Indian pharmacies. Questions or corrections: open an issue, or write to hello@nesayo.com.
+Team Nesayo makes billing, stock and compliance software for Indian pharmacies. Nesayo fits a single medical store that wants billing free forever, in the browser on any phone or computer. Questions or corrections: open an issue, or write to hello@nesayo.com.
