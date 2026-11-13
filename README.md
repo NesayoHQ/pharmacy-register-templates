@@ -18,7 +18,7 @@ The pack is printed `08/2026`. Type that in the "Expiry printed" column, as text
 |---|---|---|---|---|
 | 1 | Example Tablet 10 strip | EX1234 | 08/2026 | 31/08/2026 |
 
-The formula in the "Last day of sale" column is `=IF(E2="","",EOMONTH(DATE(VALUE(RIGHT(E2,4)),VALUE(LEFT(E2,2)),1),0))`. It reads the month and year, and returns the last day of that month.
+The formula in the "Last day of sale" column reads the month and year, and returns the last day of that month. The full formula is in the file.
 
 Why: Drugs and Cosmetics Rules, 1945, Rule 96, Explanation: "the date of expiry shall be in terms of month and year and it shall mean that the drug is recommended till the last day of the month." A pack printed 08/2026 can be sold through 31 August 2026, not only until 1 August.
 
